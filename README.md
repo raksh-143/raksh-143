@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am Rakshitha. I'm a Computer Science and Engineering student. I like to code and build applications. I constantly look for opportunities to better myself.<br>
+I am well versed with web development technologies like HTML, CSS, JavaScript, jQuery, Bootstrap, PHP and MySQL. I'm also good at programming languages like C, Java and Python.<br>
+I'm currently learning more about Machine Learning.<br>
+You can reach me on LinkedIn https://www.linkedin.com/in/rakshitha-b-a-831602207/<br>
+My Email ID is rakshitha.aruna@gmail.com<br>
 
 <!--
 **raksh-143/raksh-143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
